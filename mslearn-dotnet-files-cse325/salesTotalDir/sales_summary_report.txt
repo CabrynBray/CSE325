@@ -1,0 +1,13 @@
+Sales Summary
+---------------------------
+Total Sales: R2 012,20
+Details:
+  sales.json: R88,88
+  sales.json: R501,22
+  salestotals.json: R0,00
+  sales.json: R1 234,22
+  salestotals.json: R0,00
+  sales.json: R99,00
+  salestotals.json: R0,00
+  sales.json: R88,88
+  salestotals.json: R0,00
